@@ -1,7 +1,6 @@
-# Reto 3
+# Reto 2
 
-Renderizar todas las imágenes de “Bedu Travels”.
+Tomando como guía el código de nuestro ejemplo 1 tendremos que renderizar el index.html y main.css de “Bedu Travels”
 
-## Pistas:
+Nuestro objetivo es que nuestro index.html de “Bedu travels” pueda aceptar hojas de estilos de nuestras sesiones pasadas.
 
-Asigna nuevos valores al json de tu app.js.
